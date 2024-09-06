@@ -44,8 +44,8 @@ const options = {
       },
       servers: [
         {
-                url: "http://localhost:3000",
-                // url: "https://nodejs-job-portal-app.onrender.com"
+                //url: "http://localhost:3000",
+                url: "https://job-application-tracker-backend-fid3.onrender.com"
         },
       ],
     },
