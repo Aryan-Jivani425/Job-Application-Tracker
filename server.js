@@ -45,7 +45,9 @@ const options = {
       servers: [
         {
                 //url: "http://localhost:3000",
-                url: "https://job-application-tracker-backend-fid3.onrender.com"
+                //url: "https://job-application-tracker-backend-fid3.onrender.com" //onrender
+                url: "https://job-application-tracker-phi.vercel.app" // vercel
+
         },
       ],
     },
